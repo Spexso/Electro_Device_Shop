@@ -4,10 +4,6 @@
 
 This Java project focuses on replicating a Management System for an Electronic Device Shop. It includes functionalities for managing various electronic devices, maintaining inventory, and performing operations specific to an electronic device retail environment.
 
-## About
-
-The Electro Device Shop project is designed to provide a comprehensive simulation of an electronic device retail management system. It covers a wide range of functionalities from inventory management to device-specific operations, making it an ideal project for understanding the complexities involved in managing an electronic device shop.
-
 ## Features
 
 - **Device Management:** Create and manage different types of electronic devices such as laptops, smartphones, TVs, keyboards, and headphones.
