@@ -1,2 +1,2 @@
 # Electro_Device_Shop
- CSE 222 Project 3
+ Java project which focuses on replicating a Management System for an Electronic Device Shop
